@@ -9,9 +9,9 @@ Screenshots
 
 #### Without compose-theme-adapter dependency
 
-![without compose-theme-adapter](https://https://github.com/fbarthelery/Bug-material-components-android-compose-theme-adapter/raw/main/screenshots/without.png)
+![without compose-theme-adapter](https://github.com/fbarthelery/Bug-material-components-android-compose-theme-adapter/raw/main/screenshots/without.png)
 
 
 #### With compose-theme-adapter dependency
 
-![with compose-theme-adapter](https://https://github.com/fbarthelery/Bug-material-components-android-compose-theme-adapter/raw/main/screenshots/with.png)
+![with compose-theme-adapter](https://github.com/fbarthelery/Bug-material-components-android-compose-theme-adapter/raw/main/screenshots/with.png)
